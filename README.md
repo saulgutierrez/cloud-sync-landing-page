@@ -8,3 +8,6 @@ Technologies used:
 <li>CSS</li>
 <li>Javascript</li>
 <li>Google Fonts</li>
+
+![image](https://github.com/saulgutierrez/cloud-sync-landing-page/assets/62368834/4ce8a2cf-ac6a-44a6-a987-80a66b2f15f6)
+
